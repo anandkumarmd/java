@@ -1,0 +1,27 @@
+
+private static final ? (final => subclass cannot override, static => only one instance, private -> access inside object only)
+
+component, label, image, values, selected(not selected)/visible/enabled, algin(left/right), height, width, resize, 
+Action -> 
+
+class modifiers	
+	  Modifier.isInterface(int modifiers)
+	  Modifier.isAbstract(int modifiers)
+    Modifier.isFinal(int modifiers)
+    Modifier.isNative(int modifiers)
+    Modifier.isPrivate(int modifiers)
+    Modifier.isProtected(int modifiers)
+    Modifier.isPublic(int modifiers)
+    Modifier.isStatic(int modifiers)
+    Modifier.isStrict(int modifiers) ?
+    Modifier.isSynchronized(int modifiers)
+    Modifier.isTransient(int modifiers)
+    Modifier.isVolatile(int modifiers)
+field modifiers
+method modifiers
+	
+	city planning
+	class == blue print    object = final product(tangible)
+	module = collx of class
+	inheritance -> 3brd home extends 2brd 
+	ploymorphism -> object behave differently based on its state (print -> screen/printer/logfile)
